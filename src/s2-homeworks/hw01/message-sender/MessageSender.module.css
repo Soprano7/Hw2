@@ -22,15 +22,14 @@
     left: 1090px;
     border-radius: 20px;
     background: #0066CC;
-    font-family: 'Montserrat', sans-serif;
+    font-family: Montserrat sans-serif;
     font-size: 16px;
     font-weight: 600;
     line-height: 20px;
-    letter-spacing: 0em;
+    letter-spacing: 0;
     text-align: center;
     color: #FFFFFF;
     margin-left: 40px;
-;
 
 }
 
